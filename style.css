@@ -1,0 +1,37 @@
+.heading{
+    border: 2px dotted;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(156, 156, 156);
+    padding: 10px;
+    border-radius: 20px;
+    width: 70%;
+    margin-left: 300px;
+    margin-top: 10px;
+    background-image: linear-gradient(rgb(0, 255, 242),rgb(0, 76, 255));
+}
+h1{
+    font-size: 100;
+    font-family: 'Style Script', cursive;
+    color: rgb(0, 255, 136);
+}
+body{
+    font-family: 'Style Script', cursive;
+    color: rgb(0, 255, 136);
+    background-color: skyblue;
+}
+.model{
+    margin-left: 330px;
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: mediumturquoise;
+    float: left;
+}
+.model1{
+    margin-left: 680px;
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: mediumturquoise;
+    float: left;
+}
